@@ -45,15 +45,6 @@ Voici la solution complète, niveau par niveau (avec les noms tels qu'affichés 
 10. (optionnel) Sud-est → Vestiaires → Note d'Infirmerie (code 1111) → Sud-ouest → Infirmerie → Carte de Stagiaire → Nord-ouest → Archives (décor).
 11. Labo → nord (Clé Maîtresse + 7719) → Cœur du réacteur : cliquer Cœur du Réacteur → 🏆 Victoire.
 
-amélioration : 
-voir les objet utiliser par lvl avec differente couleur que on peut mettre nous meme, rouge pour les objet que l'on pense inutile, vert pour les objet qu'on a déjà utiliser et 
-bleur pour ce qu'on a fusinonner, pas des couleurs prés mise il faut que le joueurs choisisse de mettre des couleurs ou pas, 
-
-pourvoir savoir sur les position de ou on viens c'est pas claire exemple ou vas a l'est, si y'a nord et ouest il faut savoir que je venais de l'ouest donc sois mettre une petite 
-pastille sois une couleurs.
-
-au lieux de mettre des choix d'endroit comme "est ouest nord sud" plutot mettre le nom des salle. 
-
 ranger les objet par ordres alphabétique 
 
 modifier l'inventaire car les objet sont trop haut et se mettent sur le mot INVENTAIRE
