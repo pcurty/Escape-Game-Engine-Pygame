@@ -18,4 +18,4 @@ La conception permet la création de puzzles complexes (combinaison d'objets, co
 
 Une version exécutable (.exe) autonome est disponible pour tester la logique du jeu sans avoir besoin d'installer Python.
 
-👉 **[Télécharger l'exécutable (.exe) dans la section Releases]((https://github.com/pcurty/Escape-Game-Engine-Pygame/releases/tag/v1.0))**
+👉 **[Télécharger l'exécutable (.exe) dans la section Releases]([LIEN_VERS_TA_RELEASE_ICI](https://github.com/pcurty/Escape-Game-Engine-Pygame/releases/tag/v1.0))**
