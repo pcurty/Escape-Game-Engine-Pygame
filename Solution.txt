@@ -1,0 +1,59 @@
+Voici la solution complète, niveau par niveau (avec les noms tels qu'affichés en jeu) :
+
+🏢 NIVEAU 1 — Complexe F.I.C.S.
+
+1. Sas de décontamination : fouiller Armoire → ramasser Carte Magnétique, Post-it Froissé (lire → code atelier 8421) → nord.
+2. Couloir → est (8421) → Atelier : fouiller Caisse (Puce RFID, Pince à Dénuder) et Établi (Fusible Grillé). Combiner Carte Magnétique + Puce RFID → Badge RFID. 
+    Combiner Fusible Grillé + Pince à Dénuder → Fusible Réparé.
+3. Retour couloir → ouest (Badge RFID) → Bureau : fouiller Tiroir → ramasser Clé USB, Huile Mécanique, Page Déchirée, Gants de Protection.
+4. Retour couloir → nord → Salle de repos : fouiller Canapé → ramasser Loupe Grossissante.
+5. Retour couloir. Combiner Loupe + Page Déchirée → Page Déchiffrée (contient le code archives 7723).
+6. Bureau → nord (7723) → Archives : fouiller Étagère d'Archives → ramasser Clé Rouillée.
+7. Retour couloir. Combiner Clé Rouillée + Huile Mécanique → Clé du Générateur.
+8. Bas (Clé du Générateur) → Sous-sol : cliquer sur Générateur (le Fusible Réparé en poche l'active).
+9. Retour couloir → est (8421) → Atelier → est (Gants) → Labo : fouiller Bureau du Laboratoire → ramasser Journal de Bord (lire → code admin 9057).
+10. Retour couloir → nord-est (Clé USB + 9057) → Salle des serveurs (le générateur étant actif, vous y restez) : fouiller Console des Serveurs → ramasser Clé d'Ascenseur.
+11.Est (Clé d'Ascenseur) → passage vers le niveau 2.
+
+🚢 NIVEAU 2 — Entrepôt Portuaire
+
+1. Sas de transfert → nord → Hall.
+2. Est → Quai : fouiller Caisses de Fret (Note Chiffrée, Calculatrice) et Conteneur Ouvert (Passe Technique). Combiner Note Chiffrée + Calculatrice → 
+    Note Décodée (code chambre froide 1206).
+3. Nord (1206) → Chambre froide : fouiller Étagères Givrées → ramasser Encre Invisible. Retour hall.
+4. Dans le hall, fouiller Tableau d'Affichage → ramasser Ticket Déchiré (code bureau 5390).
+5. Ouest (5390) → Bureau du chef : fouiller Bureau du Chef → ramasser Puce Cryptée. Retour hall.
+6. Combiner Badge RFID + Puce Cryptée → Badge Maître.
+7. Bas → Local électrique (Passe Technique) : cliquer Tableau Électrique (nécessite Fusible Réparé du N1) → ouvre l'atelier.
+8. Est → Atelier maintenance : fouiller Établi Portuaire → ramasser Anneau de Clés. Retour hall.
+9. Combiner Clé du Générateur + Anneau de Clés → Trousseau de Clés.
+10. Nord (Badge Maître) → Salle de contrôle → est (Trousseau) → Conteneur scellé : fouiller Coffre Dissimulé → ramasser Clé de Passage. Retour hall.
+11. Combiner Page Déchiffrée + Encre Invisible → Page Décodée (code sortie 8842).
+12. Nord-est (Clé de Passage + 8842) → Sas de sortie → est → passage vers le niveau 3.
+
+☢️ NIVEAU 3 — Zone Restreinte
+
+1. Nord → Hall de sécurité : fouiller Panneau de Sécurité → ramasser Carnet de Bord (code garde 3305).
+2. Est (3305) → Poste de garde : fouiller Armoire du Poste → ramasser Clé Magnétique. Retour hall.
+3. Ouest (Clé Magnétique) → Armurerie : fouiller Casiers → ramasser Détecteur, Levier, Fiole de Réactif. Retour hall.
+4. Bas (Levier) → Tunnel de maintenance : fouiller Panneau du Tunnel → ramasser Composant Électronique. Retour hall.
+5. Combiner Badge Maître + Détecteur → Badge Scanner (code tour 6689).
+6. Haut (6689) → Tour de contrôle : fouiller Pupitre de Contrôle → ramasser Carte d'Accès, Protocole d'Urgence (code réacteur 7719). Retour hall.
+7. Combiner Fiole de Réactif + Composant Électronique → Solution Réveillante (code labo 4471).
+8. Nord (Carte d'Accès + 4471) → Labo de recherche : fouiller Table de Recherche → ramasser Composant Central. Retour hall.
+9. Combiner Clé de Passage + Carte d'Accès → Clé Hybride, puis Clé Hybride + Composant Central → Clé Maîtresse.
+10. (optionnel) Sud-est → Vestiaires → Note d'Infirmerie (code 1111) → Sud-ouest → Infirmerie → Carte de Stagiaire → Nord-ouest → Archives (décor).
+11. Labo → nord (Clé Maîtresse + 7719) → Cœur du réacteur : cliquer Cœur du Réacteur → 🏆 Victoire.
+
+amélioration : 
+voir les objet utiliser par lvl avec differente couleur que on peut mettre nous meme, rouge pour les objet que l'on pense inutile, vert pour les objet qu'on a déjà utiliser et 
+bleur pour ce qu'on a fusinonner, pas des couleurs prés mise il faut que le joueurs choisisse de mettre des couleurs ou pas, 
+
+pourvoir savoir sur les position de ou on viens c'est pas claire exemple ou vas a l'est, si y'a nord et ouest il faut savoir que je venais de l'ouest donc sois mettre une petite 
+pastille sois une couleurs.
+
+au lieux de mettre des choix d'endroit comme "est ouest nord sud" plutot mettre le nom des salle. 
+
+ranger les objet par ordres alphabétique 
+
+modifier l'inventaire car les objet sont trop haut et se mettent sur le mot INVENTAIRE
