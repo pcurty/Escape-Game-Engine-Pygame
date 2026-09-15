@@ -1,5 +1,3 @@
-Voici la solution complète, niveau par niveau (avec les noms tels qu'affichés en jeu) :
-
 🏢 NIVEAU 1 — Complexe F.I.C.S.
 
 1. Sas de décontamination : fouiller Armoire → ramasser Carte Magnétique, Post-it Froissé (lire → code atelier 8421) → nord.
@@ -44,7 +42,3 @@ Voici la solution complète, niveau par niveau (avec les noms tels qu'affichés 
 9. Combiner Clé de Passage + Carte d'Accès → Clé Hybride, puis Clé Hybride + Composant Central → Clé Maîtresse.
 10. (optionnel) Sud-est → Vestiaires → Note d'Infirmerie (code 1111) → Sud-ouest → Infirmerie → Carte de Stagiaire → Nord-ouest → Archives (décor).
 11. Labo → nord (Clé Maîtresse + 7719) → Cœur du réacteur : cliquer Cœur du Réacteur → 🏆 Victoire.
-
-ranger les objet par ordres alphabétique 
-
-modifier l'inventaire car les objet sont trop haut et se mettent sur le mot INVENTAIRE
